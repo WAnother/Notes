@@ -1,0 +1,9 @@
+Kobe Byrant,AngryBird,10
+Leb James,AngryBird,15
+Peter Pan,Slither,20
+Jason Kid,IO,15
+Sun Kim,Slither,15
+Tim Ducan,AngryBird,30
+C Ronald,AngryBird,10
+RJ Rando,IO,8
+Michael Jordan,Slither,40
